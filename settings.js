@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22781289418"
-global.ownername = "KAWAKI227"
+global.ownernomer = "2250100282598"
+global.ownername = "♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜"
 global.ytname = "YT: KA-WA-KI"
 global.socialm = "GitHub: kawaki227"
 global.location = "Niger"
 
-global.ownernumber = '22781289417'  //creator number
-global.ownername = 'KAWAKI227💫' //owner name
-global.botname = 'KAWAKI BUG BOT' //name of the bot
+global.ownernumber = 2250100282598'  //creator number
+global.ownername = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜' //owner name
+global.botname = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜-m̺͆d̺͆' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'KAWAKI💫\n\nContact: +22781289418'
+global.packname = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜'
+global.author = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜\n\nContact: +2250100282598'
 
 //console view/theme
 global.themeemoji = '💫'
@@ -40,7 +40,7 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
